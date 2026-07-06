@@ -19,3 +19,6 @@ A simple Flask web application built using Python and Pydroid 3.
    python app.py
 3. Open http://127.0.0.1:5000# my-first-flask-app
 My first Flask web application built using Python and Pydroid 3.
+## Screenshot
+
+![Home Page](screenshots/home_page.png)
